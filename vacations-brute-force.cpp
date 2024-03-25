@@ -57,6 +57,9 @@ int main() {
 	// tovabblepunk a kovetkezo napra
 	// igy kiprobalgatjuk az osszes lehetseges hetet
 
+	// kiirjuk a megoldast
+	// azert vonjuk ki megold(0)-t n-ből, mert megold(0) a maximalisan aktivan toltott napok szama
+	// es nekunk a minimalisan pihenessel toltott napok szama kell
 	cout << n-megold(0) << "\n";
 
 
