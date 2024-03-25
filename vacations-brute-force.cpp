@@ -41,6 +41,9 @@ int megold(int nap_ind, int elozo_napi_aktivitas=0){
 	legtobb_nap_aktiv = 0;
 	legtobb_nap_aktiv = max(legtobb_nap_aktiv, (megold(nap_ind+1, van_verseny) + van_verseny)*(!elozo_napi_aktivitas || elozo_napi_aktivitas == 2));
 	legtobb_nap_aktiv = max(legtobb_nap_aktiv, (megold(nap_ind+1, van_edzes*2) + van_edzes)*(!elozo_napi_aktivitas || elozo_napi_aktivitas == 1));
+	// ezt kikommentelve ki lehet probalni az ifes megoldast
+
+	
 	return legtobb_nap_aktiv;
 }
 
