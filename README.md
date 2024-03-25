@@ -9,4 +9,4 @@ A márciusi mszo versenyprog kurzus feladatai és megoldásai
 # Versenyfeladatok
 1. [Watermelon](https://codeforces.com/problemset/problem/4/A)
 2. [Fence](https://codeforces.com/problemset/problem/363/B)
-3. [The Cake Is a Lie](https://codeforces.com/problemset/problem/1519/B)
+3. [Potions](https://codeforces.com/problemset/problem/1526/C1)
