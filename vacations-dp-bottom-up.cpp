@@ -38,7 +38,7 @@ int main() {
 	}
 
 	// kiirjuk a megoldast
-  // azert vonjuk ki dp[0][0]-t n-ből, mert dp[0][0] a maximalisan aktivan toltott napok szama
-  // es nekunk a minimalisan pihenessel toltott napok szama kell
+  	// azert vonjuk ki dp[0][0]-t n-ből, mert dp[0][0] a maximalisan aktivan toltott napok szama
+  	// es nekunk a minimalisan pihenessel toltott napok szama kell
 	cout << n-dp[0][0] << "\n";
 }
