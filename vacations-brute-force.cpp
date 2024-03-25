@@ -2,7 +2,7 @@
 using namespace std;
 
 // https://codeforces.com/problemset/problem/698/A
-// feladatra a BRUTE-FORCE megoldas
+// feladatra a BRUTE-FORCE megoldas, ezert nem is megy at a teszteken
 
 int n; // napok szama
 vector<int> a; // adott napon lehetseges aktivitasok szama
